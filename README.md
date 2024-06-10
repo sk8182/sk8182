@@ -11,6 +11,8 @@ Soy un desarrollador apasionado por la tecnología y la creación de soluciones 
 ### Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sk8182&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk8182)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Proyectos Destacados
 
 - [**EditorTexto**](https://github.com/sk8182/DI-EditorTexto): Editor de texto utilizando JavaFXML.
