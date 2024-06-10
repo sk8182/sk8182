@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hola, soy Julio 👋
+### Desarrollador de Software
 
-<!--
-**sk8182/sk8182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la tecnología y la creación de soluciones innovadoras. Recientemente he finalizado mis estudios en Desarrollo de Aplicaciones Multiplataforma (DAM) y estoy buscando oportunidades para aplicar mis conocimientos y aprender más en el campo del desarrollo de software.
 
-Here are some ideas to get you started:
+### Tecnologías
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sk8182&show_icons=true&theme=radical)
+
+### Proyectos Destacados
+
+- [**EditorTexto**](https://github.com/sk8182/DI-EditorTexto): Editor de texto utilizando JavaFXML.
+
+### Conéctate Conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julio-martínez-cazorla)
+
+
