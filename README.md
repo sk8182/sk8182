@@ -13,10 +13,6 @@ Soy un desarrollador apasionado por la tecnología y la creación de soluciones 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk8182)](https://github.com/anuraghazra/github-readme-stats)
 
-### Proyectos Destacados
-
-- [**EditorTexto**](https://github.com/sk8182/DI-EditorTexto): Editor de texto utilizando JavaFXML.
-
 ### Conéctate Conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julio-martínez-cazorla)
 
